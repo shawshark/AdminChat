@@ -1,0 +1,5 @@
+chat-format: '&c[&4!<server>&c] <displayname>&f: '
+server-name: SERVER
+servers:
+  - server1
+  - server2

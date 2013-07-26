@@ -1,0 +1,12 @@
+main: com.bobotropolis.lilyshout.shoutMain
+version: 0.1.1
+name: AdminChat
+author: boboman13
+
+commands:
+  admin:
+    description: Notify all online staff.
+    usage: /<command> <message>
+    aliases:
+    - ac
+    - adminchat
